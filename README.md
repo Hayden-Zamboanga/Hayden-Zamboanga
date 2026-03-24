@@ -17,7 +17,7 @@ My schooling in computer science and engineering has opened my eye to the cybers
 | TBD          | TBD |
 | TBD          | TBD |
 
-## Tools
+## Technologies
 ### Coding Languages
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
