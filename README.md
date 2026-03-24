@@ -31,7 +31,10 @@ My schooling in computer science and engineering has opened my eye to the cybers
 
 ### Frameworks
 <div>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
 </div>
 
 ### Data Science Tools
