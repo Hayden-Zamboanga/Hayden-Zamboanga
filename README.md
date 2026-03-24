@@ -84,7 +84,7 @@ My schooling in computer science and engineering has opened my eye to the cybers
 | **Beginner** | Logging & Monitoring Basics    | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (ELK Intro) </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (CloudWatch Basics) </a> |
 | **Beginner** | Secure Coding Fundamentals     | <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features (Input Validation, Basic Auth) </a> |
 | **Beginner** | Version Control / CI Basics    | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (CI/CD Pipeline Project) </a> |
-|--------------|--------------------------------|---------------------------------------------------------------------------------------|
+|--------------|--------------------------------|--------------------------------------------------------------------|
 | **Intermediate** | SIEM & Log Analysis        | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab  (SOC / ELK Lab) </a> |
 | **Intermediate** | Threat Detection           | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Cloud SIEM) </a> |
 | **Intermediate** | Vulnerability Assessment   | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (Tenable, DVWA) </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Scanning Lab) </a> |
@@ -96,7 +96,7 @@ My schooling in computer science and engineering has opened my eye to the cybers
 | **Intermediate** | DevOps / CI-CD             | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (CI/CD Pipeline Project) </a> |
 | **Intermediate** | Containerization           | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (Docker) </a> |
 | **Intermediate** | Data Engineering Basics    | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Stock Data Pipeline) </a> |
-|--------------|--------------------------------|---------------------------------------------------------------------------------------|
+|--------------|--------------------------------|--------------------------------------------------------------------|
 | **Advanced** | Incident Response              | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Threat Detection Pipeline) </a> |
 | **Advanced** | Penetration Testing            | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (Kali Linux Attacks) </a> |
 | **Advanced** | Intrusion Detection (IDS)      | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (IDS) </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Traffic Monitoring) </a> |
