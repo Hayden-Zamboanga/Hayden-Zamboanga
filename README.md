@@ -8,14 +8,10 @@ My past experiences include mentoring Nevada educators in cybersecurity and digi
 ## Objective
 My schooling in computer science and engineering has opened my eye to the cybersecurity world and I am eager to learn as much as I can to get a job in the field.
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| TBD          | TBD |
-| TBD          | TBD |
-| TBD          | TBD |
-| TBD          | TBD |
-| TBD          | TBD |
+## Certifications
+<div>
+<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/F1VL2RDSXFRECYRJ"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
 ## Technologies
 ### Coding Languages
@@ -37,13 +33,10 @@ My schooling in computer science and engineering has opened my eye to the cybers
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
 </div>
 
-### Data Science Tools
+### Cloud
 <div>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
 ### Databases
@@ -53,24 +46,27 @@ My schooling in computer science and engineering has opened my eye to the cybers
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
-### Cloud
+### Data Science Tools
 <div>
-    <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </div>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Vulnerability & Penetration Testing
+### Vulnerability & Penetration Testing Tools
 <div>
     <img src="https://img.shields.io/badge/Metasploit-636363?style=for-the-badge&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </div>
 
-### Tools
+### Network Tools
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### General Tools
 <div>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -78,11 +74,41 @@ My schooling in computer science and engineering has opened my eye to the cybers
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
-
-## Certifications
-<div>
-<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/F1VL2RDSXFRECYRJ"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+    
+## Skills
+| Skill Level  | Skill                          | Associated Project(s)                                                                  |
+|--------------|--------------------------------|----------------------------------------------------------------------------------------|
+| **Beginner** | Cloud Fundamentals             | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (2-Tier Website Deployment) </a> |
+| **Beginner** | Basic Web Deployment           | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (2-Tier Website Deployment) </a> |
+| **Beginner** | Networking Basics              | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab </a> |
+| **Beginner** | Logging & Monitoring Basics    | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (ELK Intro) </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (CloudWatch Basics) </a> |
+| **Beginner** | Secure Coding Fundamentals     | <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features (Input Validation, Basic Auth) </a> |
+| **Beginner** | Version Control / CI Basics    | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (CI/CD Pipeline Project) </a> |
+|--------------|--------------------------------|----------------------------------------------------------------------------------------|
+| **Intermediate** | SIEM & Log Analysis        | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab  (SOC / ELK Lab) </a> |
+| **Intermediate** | Threat Detection           | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Cloud SIEM) </a> |
+| **Intermediate** | Vulnerability Assessment   | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (Tenable, DVWA) </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Scanning Lab) </a> |
+| **Intermediate** | Network Security           | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (pfSense Firewall, IDS) </a> |
+| **Intermediate** | Firewall Configuration     | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (pfSense) </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Secure Architecture) </a> |
+| **Intermediate** | Secure Authentication      | <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features (JWT, OAuth) </a> |
+| **Intermediate** | Encryption Implementation  | <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (S3/RDS Encryption) </a> |
+| **Intermediate** | Web Application Security   | <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features </a>, <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (DVWA Testing) </a> |
+| **Intermediate** | DevOps / CI-CD             | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (CI/CD Pipeline Project) </a> |
+| **Intermediate** | Containerization           | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (Docker) </a> |
+| **Intermediate** | Data Engineering Basics    | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Stock Data Pipeline) </a> |
+|--------------|--------------------------------|----------------------------------------------------------------------------------------|
+| **Advanced** | Incident Response              | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Threat Detection Pipeline) </a> |
+| **Advanced** | Penetration Testing            | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (Kali Linux Attacks) </a> |
+| **Advanced** | Intrusion Detection (IDS)      | <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab (IDS) </a>, <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Traffic Monitoring) </a> |
+| **Advanced** | Cloud Security Architecture    | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (3-Tier Architecture Project) </a> |
+| **Advanced** | Identity & Access Management   | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (IAM Hardening) </a>, <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features </a> |
+| **Advanced** | Automation (Security Response) | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Lambda Threat Response Pipeline) </a> |
+| **Advanced** | Data Streaming & Analytics     | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Real-Time Stock Market Pipeline) </a> |
+| **Advanced** | Secure System Design           | <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features (Full Architecture) </a> |
+| **Advanced** | Application Security (AppSec)  | <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features </a> |
+| **Advanced** | Zero Trust Concepts            | <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground (Security Projects) </a>, <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features </a> |
 
 ## Projects
-- Work In Progress
+- <a href="https://github.com/Hayden-Zamboanga/Home-Lab">Cybersecurity Home Lab </a>
+- <a href="https://github.com/Hayden-Zamboanga/Security-Features">Security Features </a>
+- <a href="https://github.com/Hayden-Zamboanga/AWS-Playground">AWS Playground </a>
