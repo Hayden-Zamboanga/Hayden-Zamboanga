@@ -1,5 +1,5 @@
 # Hello, I'm Hayden Zamboanga
-<a href="https://www.linkedin.com/in/hayden-zamboanga/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:hzambo@outlook.com><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hayden-zamboanga/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a mailto:hzambo@outlook.com><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 As a Computer Science and Engineering graduate from the University of Nevada, Reno, I bring a strong foundation in artificial intelligence, SQL, and network engineering. Currently, as a Project Manager and Software Developer at AI Trusted Advisors, I contribute to leading teams and managing resources to deliver multiple projects efficiently. My role involves designing and coding innovative tools, including a voice AI assistant and a cold email generator, leveraging technologies like LiveKit, OpenAI, Cartesia, and Deepgram.  
 
